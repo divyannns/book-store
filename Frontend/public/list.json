@@ -1,0 +1,82 @@
+[
+    {
+        "id":1,
+        "name": "Memoir Books",
+        "title": "A subclass of autobiography, where the author may be referred to as a memoirist",
+        "price":0,
+        "category": "Memoir",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    },
+    {
+        "id":2,
+        "name": "Literary fiction Book",
+        "title": "A genre that's hard to categorize, but is considered to have artistic value",
+        "price":20,
+        "category": "Literary fiction",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    },
+    {
+        "id":3,
+        "name": "Sports Book",
+        "title": "A sports novel is a genre of novel that focuses on the theme of sports and athletics in general. ",
+        "price":50,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    },
+    {
+        "id":4,
+        "name": "Mystery Book",
+        "title": "A genre that involves a secret or crime that needs to be solved, usually by the end of the story",
+        "price":100,
+        "category": "Mystery",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    },
+    {
+        "id":5,
+        "name": "Recipes Book",
+        "title": "somthing",
+        "price":200,
+        "category": "Cooking",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    },
+    {
+        "id":6,
+        "name": "Historical fiction Book",
+        "title": "A genre that takes place in the past and features imaginary characters experiencing real historical events.",
+        "price":300,
+        "category": "Historical fiction",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    },
+    {
+        "id":7,
+        "name": "Horror Book",
+        "title": "A genre that aims to cause fear and discomfort, often using supernatural elements. Stephen King is considered a master of horror fiction.",
+        "price":200,
+        "category": "Horror",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    },
+    {
+        "id":8,
+        "name": "Science fiction Book",
+        "title": "A large genre that explores futuristic societies and big questions.",
+        "price":500,
+        "category": "Science fiction",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    },
+    {
+        "id":9,
+        "name": "Thriller Book",
+        "title": "A popular genre that explores the darker side of life",
+        "price":500,
+        "category": "Thriller",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    },
+    {
+        "id":10,
+        "name": "Fantasy Book",
+        "title": "A genre that includes elements of magic or the supernatural, such as Lord of the Rings by Tolkien and Harry Potter by Rowling",
+        "price":50,
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/free-vector/gradient-stack-books-illustration_23-2149327721.jpg?t=st=1726143217~exp=1726146817~hmac=3b29c5ee7355e12b8472730f037ca40290335777d3f16531204021fa6a01d351&w=740"
+    }
+]
